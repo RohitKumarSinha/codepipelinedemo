@@ -8,7 +8,6 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
-    <h1>my name is rohit kumar sinha</h1>
   </React.StrictMode>
 );
 
